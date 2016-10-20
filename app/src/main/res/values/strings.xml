@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conoceme</string>
+    <string name="quien_soy" />
+    <string name="mi_nombre_es_luis_raul_cruz_ramos_soy_de_managua_nicaragua_tengo_hermansas_y_3_hermanos">Mi nombre es Luis Raul Cruz Ramos,Soy de Managua, Nicaragua. Tengo # hermansas y 3 hermanos,</string>
+    <string name="foto_mia">Foto mia</string>
+    <string name="quien_soy2">Quien soy?</string>
+</resources>
